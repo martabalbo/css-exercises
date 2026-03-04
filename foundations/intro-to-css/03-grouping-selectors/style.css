@@ -7,3 +7,9 @@
 .class-two {
     background-color: hsl(61, 94%, 49%);
 }
+
+
+.class-one, .class-two {
+    font-size: 28px;
+    font-family: "Times New Roman, Helvetica", sans-serif;
+}
