@@ -10,10 +10,6 @@ body {
 
 .para {
   font-size: 22px;
-}vvvvvvvvv.para {
-  font-size: 22px;
-}.para {
-  font-size: 22px;
 }
 
 .small-para {
@@ -33,7 +29,7 @@ body {
   font-size: 20px;
 }
 
-.child {
+div.text.child {
   color: rgb(0, 0, 0);
   font-weight: 800;
   font-size: 14px;
