@@ -36,10 +36,19 @@ body {
   padding: 16px;
 }
 
+.cards {
+  padding: 48px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
 .card {
   border: 1px solid #eee;
   box-shadow: 2px 4px 16px rgba(0,0,0,.06);
   border-radius: 4px;
+  padding: 16px;
+  margin: 16px;
+  flex-basis: 300px;
 }
 
 .content {
